@@ -1,0 +1,58 @@
+{
+    "manifest_version": 2,
+    "name": "Rose Pine Moon",
+    "version": "1.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "graknow.rose-pine-moon@addons.thunderbird.net",
+            "strict_min_version": "60.0"
+        }
+    },
+    "description": "Rose Pine Moon theme.",
+    "icons": {
+        "16": "icon.png"
+    },
+    "theme": {
+        "colors": {
+            "bookmark_text": "#00ff00",
+            "button_background_active": "#56526e",
+            "button_background_hover": "#44415a",
+            "icons": "#ea9a97",
+            "icons_attention": "#3e8fb0",
+            "frame": "#232136",
+            "frame_inactive": "#232136",
+            "ntp_background": "#232136",
+            "ntp_card_background": "#2a273f",
+            "ntp_text": "#e0def4",
+            "tab_text": "#e0def4",
+            "tab_line": "#eb6f92",
+            "tab_loading": "#1f9afd",
+            "tab_background_text": "#e0def4",
+            "tab_selected": "#232136",
+            "bookmark_text": "#e0def4",
+            "toolbar": "#2a273f",
+            "toolbar_text": "#e0def4",
+            "toolbar_field": "#393552",
+            "toolbar_field_focus": "#393552",
+            "toolbar_field_text": "#e0def4",
+            "toolbar_field_text_focus": "#e0def4",
+            "toolbar_field_highlight": "#44415a",
+            "toolbar_field_highlight_text": "#e0def4",
+            "toolbar_field_border": "#393552",
+            "toolbar_field_border_focus": "#3e8fb0",
+            "toolbar_top_separator": "rgba(0, 0, 0, 0.0)",
+            "toolbar_bottom_separator": "#56526e",
+            "toolbar_vertical_separator": "#56526e",
+            "sidebar": "#232136",
+            "sidebar_text": "#e0def4",
+            "sidebar_highlight": "#44415a",
+            "sidebar_highlight_text": "#e0def4",
+            "sidebar_border": "#56526e",
+            "popup": "#393552",
+            "popup_text": "#e0def4",
+            "popup_border": "#ea9a97",
+            "popup_highlight": "#44415a",
+            "popup_highlight_text": "#e0def4"
+        }
+    }
+}
