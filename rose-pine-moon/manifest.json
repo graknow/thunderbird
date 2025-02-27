@@ -14,7 +14,6 @@
     },
     "theme": {
         "colors": {
-            "bookmark_text": "#00ff00",
             "button_background_active": "#56526e",
             "button_background_hover": "#44415a",
             "icons": "#ea9a97",
@@ -29,12 +28,11 @@
             "tab_loading": "#1f9afd",
             "tab_background_text": "#e0def4",
             "tab_selected": "#232136",
-            "bookmark_text": "#e0def4",
             "toolbar": "#2a273f",
-            "toolbar_text": "#e0def4",
+            "toolbar_text": "#908caa",
             "toolbar_field": "#393552",
             "toolbar_field_focus": "#393552",
-            "toolbar_field_text": "#e0def4",
+            "toolbar_field_text": "#6e6a86",
             "toolbar_field_text_focus": "#e0def4",
             "toolbar_field_highlight": "#44415a",
             "toolbar_field_highlight_text": "#e0def4",
@@ -52,7 +50,23 @@
             "popup_text": "#e0def4",
             "popup_border": "#ea9a97",
             "popup_highlight": "#44415a",
-            "popup_highlight_text": "#e0def4"
+            "popup_highlight_text": "#e0def4",
+            "spaces_background_color": "#232136",
+            "tree_pane_background": "#232136",
+            "tree_card_background": "#393552",
+            "background_color_information": "#9ccfd8"
+        },
+        "properties": {
+            "color_scheme": "dark"
+        }
+    },
+    "theme_experiment": {
+        "stylesheet": "style.css",
+        "colors": {
+            "spaces_background_color": "--spaces-bg-color",
+            "tree_pane_backgroud": "--tree-pane-background",
+            "tree_card_background": "--tree-card-background",
+            "background_color_information": "--background-color-information"
         }
     }
 }
