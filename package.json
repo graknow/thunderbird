@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@rose-pine/build": "^0.9.1"
+  }
+}

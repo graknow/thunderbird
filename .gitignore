@@ -1,1 +1,9 @@
+build/
+
+# Release file formats
 *.zip
+*.xpi
+
+# Build tool module
+node_modules/
+

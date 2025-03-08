@@ -13,9 +13,11 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open Thunderbird
+2. Open Settings, then navigate to `Add-ons and Themes`
+3. Click the gear icon and select `Install Add-on From File...`
+4. Select the .xpi file corresponding to the desired theme
+5. Click `OK` on the confirm pop-up
 
 ## Gallery
 
