@@ -105,7 +105,7 @@
             "link_visited": "$foam",
             "layout_bg_0": "$base",
             "layout_bg_1": "$surface",
-            "gray_70": "$text",
+            "gray_70": "$overlay",
             "gray_50": "$highlightHigh"
         },
         "properties": {
