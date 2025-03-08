@@ -21,7 +21,25 @@
 
 ## Gallery
 
-![Rosé Pine with Thunderbird](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+**Rosé Pine**
+
+![Thunderbird Inbox with Rosé Pine](assets/gallery/rp-inbox.png)
+
+![Thunderbird Calendar with Rosé Pine](assets/gallery/rp-calendar.png)
+
+
+**Rosé Pine Moon**
+
+![Thunderbird Inbox with Rosé Pine Moon](assets/gallery/rpm-inbox.png)
+
+![Thunderbird Calendar with Rosé Pine Moon](assets/gallery/rpm-calendar.png)
+
+
+**Rosé Pine Dawn**
+
+![Thunderbird Inbox with Rosé Pine Dawn](assets/gallery/rpd-inbox.png)
+
+![Thunderbird Calendar with Rosé Pine Dawn](assets/gallery/rpd-calendar.png)
 
 ## Thanks to
 
