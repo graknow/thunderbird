@@ -3,7 +3,7 @@
 # Get to project root.
 cd "$(dirname "$0")/.." || exit
 
-./bin/generate.sh
+./tools/generate.sh
 
 mkdir -p build
 

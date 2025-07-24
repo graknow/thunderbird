@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "$name",
-    "version": "1.0",
+    "version": "1.0.2",
     "browser_specific_settings": {
         "gecko": {
             "id": "graknow.$id@addons.thunderbird.net",
@@ -39,7 +39,8 @@
             "layout_bg_0": "--layout-background-0",
             "layout_bg_1": "--layout-background-1",
             "gray_70": "--color-gray-70",
-            "gray_50": "--color-gray-50"
+            "gray_50": "--color-gray-50",
+            "time_color": "--viewTimeBoxColor"
         }
     },
     "theme": {
@@ -105,8 +106,9 @@
             "link_visited": "$foam",
             "layout_bg_0": "$base",
             "layout_bg_1": "$surface",
-            "gray_70": "$overlay",
-            "gray_50": "$highlightHigh"
+            "gray_50": "$highlightHigh",
+            "gray_70": "$($overlay|$overlay|$subtle)",
+            "time_color": "$subtle"
         },
         "properties": {
             "color_scheme": "$type"

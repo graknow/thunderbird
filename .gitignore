@@ -1,5 +1,10 @@
 build/
 
+# Template generated files
+/src/rose-pine-dawn.json
+/src/rose-pine-moon.json
+/src/rose-pine.json
+
 # Release file formats
 *.zip
 *.xpi
